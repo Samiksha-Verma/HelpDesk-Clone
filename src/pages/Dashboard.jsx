@@ -4,7 +4,7 @@ import TicketList from "../components/TicketList";
 import TicketDetails from "../components/TicketDetails";
 import RightPanel from "../components/RightPanel";
 import CreateKnowledgeDrawer from "../components/CreateKnowledgeDrawer";
-import Sidebar from "../components/sidebar";
+import Sidebar from "../components/Sidebar";
 import Lefticonbar from "../components/Lefticonbar";
 
 export default function Dashboard() {
